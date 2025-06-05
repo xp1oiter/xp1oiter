@@ -55,6 +55,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/xp1oiter/xp1oiter/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/xp1oiter/xp1oiter/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
