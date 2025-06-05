@@ -42,7 +42,7 @@
 
 ## 🔗 Connect With Me
 
-- 🌐 Portfolio: [abrham.app.vercel](https://abrham.app.vercel)
+- 🌐 Portfolio: [abrham.vercel.app](https://abrham.vercel.app)
 - 📧 Email: abmuhu10@gmail.com
 
 ---
@@ -54,8 +54,6 @@
 - React Native
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xp1oiter/xp1oiter/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 
