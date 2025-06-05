@@ -47,7 +47,6 @@
 
 ---
 
----
 
 ## 🧠 Currently Learning
 - SOC Analyst Tools (SIEM, ELK Stack)
@@ -55,4 +54,7 @@
 - React Native
 
 ---
+<p align="center">
+  <img src="https://github.com/xp1oiter/xp1oiter/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
